@@ -1,0 +1,5 @@
+requests~=2.32.5
+flask~=3.1.2
+python-dotenv~=1.1.1
+yfinance~=0.2.65
+openai~=1.99.5
